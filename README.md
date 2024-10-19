@@ -5,6 +5,8 @@ This project is an implementation of the Canny Edge Detection algorithm, one of 
 
 The project is modularized, making it easier to understand and extend. Each key operation, such as grayscale conversion, Gaussian filtering, Sobel filtering, non-maximum suppression, and hysteresis, is defined in separate functions, spread across different files for clarity.
 
+![showcase](https://github.com/user-attachments/assets/2a079c69-fb27-409b-a1d2-7478e37d53da)
+
 ## Features
 - **Custom Canny Edge Detection**: Complete step-by-step breakdown of the Canny Edge Detection algorithm.
 - **Real-time Processing**: Uses your computer's webcam to perform live edge detection.
